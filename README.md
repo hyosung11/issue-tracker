@@ -1,4 +1,4 @@
-# issue-tracker
+# Issue Tracker
 JavaScript Issue Tracker
 
 ## [Live Server](https://www.npmjs.com/package/live-server)
